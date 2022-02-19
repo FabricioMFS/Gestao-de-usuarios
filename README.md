@@ -15,3 +15,4 @@ entity users {
     *created_at : datetime
     updated_at : datetime
 }
+@enduml
